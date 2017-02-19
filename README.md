@@ -1,6 +1,6 @@
-# Deterministic-Policy-Gradient-Methods
+# Continuous Action Mountain Car
 Deterministic Policy Gradient Algorithms + Q-learning
-Just run compile.sh
+
 1) chmod +x compile.sh
 2) ./compile.sh
 
