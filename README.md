@@ -10,6 +10,6 @@ For a detailed discussion, please visit my blog post [2].
    <b>References</b>
    </p>
    
- * [1] Silver, David, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Martin Riedmiller. "Deterministic policy gradient algorithms." In ICML. 2014.
+ * [1] David Silver, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, and Martin Riedmiller. "Deterministic policy gradient algorithms." In ICML. 2014.
   * [2] https://sridhartee.blogspot.in/2017/02/deterministic-policy-gradient-methods.html
 
